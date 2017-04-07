@@ -1,4 +1,8 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "strona"
+  "format": "strona",
+  "doi": "http://dx.doi.org/10.1890/12-1419.1",
+  "resources": {
+    "http://www.esapubs.org/archive/ecol/E094/045/FPEDB.csv", "FPEDB.csv"
+  }
 }
